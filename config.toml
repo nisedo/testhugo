@@ -38,20 +38,20 @@ style = "github-dark"
 
 # Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
+  weight = 1
+  url = "https://twitter.com/nisedo_/"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 2
+  url = "https://github.com/nisedo/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://www.linkedin.com/in/nisedo/"
 
 # Menu links
 [[menu.main]]
