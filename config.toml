@@ -18,8 +18,8 @@ style = "github-dark"
   avatarurl = "https://avatars.githubusercontent.com/u/73041332?v=4"
   #gravatar = "john.doe@example.com"
 
-  favicon_32 = "/static/favicon.png"
-  favicon_16 = "/static/favicon.png"
+  favicon_32 = "/favicon.png"
+  favicon_16 = "/favicon.png"
 
   enableTwemoji = true
 
