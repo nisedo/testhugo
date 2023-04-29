@@ -18,12 +18,21 @@ Visit the Hugo website!</description>
     </item>
     
     <item>
+      <title>Audits</title>
+      <link>https://nisedo.github.io/audits/</link>
+      <pubDate>Sat, 29 Apr 2023 13:08:10 +0200</pubDate>
+      
+      <guid>https://nisedo.github.io/audits/</guid>
+      <description>Audits Portfolio In progress</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://nisedo.github.io/projects/</link>
       <pubDate>Sat, 29 Apr 2023 13:08:10 +0200</pubDate>
       
       <guid>https://nisedo.github.io/projects/</guid>
-      <description>Portfolio In progress</description>
+      <description>Projects Portfolio In progress</description>
     </item>
     
     <item>
