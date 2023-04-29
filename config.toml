@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nisedo.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'nisedo'
 theme = 'hugo-coder'
 
 paginate = 20
@@ -11,7 +11,7 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
+  author = "nisedo"
   info = "Full Stack DevOps and Magician"
   description = "John Doe's personal website"
   keywords = "blog,developer,personal"
