@@ -8,13 +8,35 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Apr 2023 16:10:54 +0200</lastBuildDate><atom:link href="https://nisedo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>TEST123</title>
       <link>https://nisedo.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 29 Apr 2023 16:10:54 +0200</pubDate>
       
       <guid>https://nisedo.github.io/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://nisedo.github.io/projects/</link>
+      <pubDate>Sat, 29 Apr 2023 13:08:10 +0200</pubDate>
+      
+      <guid>https://nisedo.github.io/projects/</guid>
+      <description>Portfolio In progress</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://nisedo.github.io/aboutme/</link>
+      <pubDate>Sat, 29 Apr 2023 12:55:39 +0200</pubDate>
+      
+      <guid>https://nisedo.github.io/aboutme/</guid>
+      <description>Background In progress
+Education Harvard University - CS50x: Introduction to Computer Science
+Alchemy University - Ethereum Developer Bootcamp
+Secureum - Epoch 0 Bootcamp: Smart Contract Security Auditing
+CryptoZombies courses</description>
     </item>
     
   </channel>
