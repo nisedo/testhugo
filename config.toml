@@ -12,16 +12,14 @@ style = "github-dark"
 
 [params]
   author = "nisedo"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  info = "Solidity Smart Contract Developer/Auditor"
+  description = "nisedo's personal website"
+  keywords = "blog,developer,auditor,smart contract,blockchain,solidity"
+  avatarurl = "https://avatars.githubusercontent.com/u/73041332?v=4"
   #gravatar = "john.doe@example.com"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
-
-  since = 2019
+  favicon_32 = "/static/favicon.png"
+  favicon_16 = "/static/favicon.png"
 
   enableTwemoji = true
 
