@@ -12,9 +12,9 @@ style = "github-dark"
 
 [params]
   author = "nisedo"
-  info = "Solidity Smart Contract Developer/Auditor"
+  info = "Blockchain Engineer & Solidity Smart Contract Auditor"
   description = "nisedo's personal website"
-  keywords = "blog,developer,auditor,smart contract,blockchain,solidity"
+  keywords = "blog,engineer, developer,auditor,smart contract,blockchain,solidity"
   avatarurl = "https://avatars.githubusercontent.com/u/73041332?v=4"
   #gravatar = "john.doe@example.com"
 
