@@ -9,8 +9,6 @@ draft: false
 
 ### Education
 
-- **Harvard University** - [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)
-
 - **Alchemy University** - [Ethereum Developer Bootcamp](https://university.alchemy.com/#eth-bootcamp)
 
 - **Secureum** - [Epoch 0 Bootcamp: Smart Contract Security Auditing](https://www.secureum.xyz/epoch0)
